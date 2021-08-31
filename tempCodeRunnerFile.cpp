@@ -1,12 +1,12 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
 
 int main()
 {
-    int a, b =20;
-    a = (b=25) + b;
-    cout << a << endl;
+    std::cout << "hello world---cout" << std::endl ;
+    std::cerr << "hello world---cerr" << std::endl ;
     return 0;
 }
 
